@@ -1,5 +1,5 @@
 <H1>Under Construction</H1>
-<H3>This is the personal blog of me, Adam Peterson. It will be used for what I hope
+This is the personal blog of me, Adam Peterson. It will be used for what I hope
    will be several ongoing personal projects, some "professional", some for health,
    both physical and mental, and some "fun" projects.
 
@@ -20,4 +20,4 @@ for social media, possibly excluding Twitter. I feel this structure will lend it
 to how I express my thinking online, and cut down on the signal to noise ratio. I look forward
 to working on this page, and hope you'll come along for the journey.
 
-I can be reached on twitter @ZebraCakes, or via email at adam.petersonffc@gmail.com</H3>
+I can be reached on twitter @ZebraCakes, or via email at adam.petersonffc@gmail.com
